@@ -1,0 +1,21 @@
+#slideShowImages {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#slideShowImages img{
+
+	width: 576px;
+	height: 432px;
+}
+
+#mainBody{
+	text-align: center;
+}
+
+p{
+	font-size: 35pt;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	color: red;
+}
