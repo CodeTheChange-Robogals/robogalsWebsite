@@ -1,13 +1,13 @@
 # Robogals Website
-Website made for the non-profit organization Robogals within 12 hours for a Code The Change code jam.
+Website made for the non-profit organization Robogals within 12 hours for a Queen's Code The Change code jam.
 
-# Product Managers
+<h3>Product Managers</h3>
 <ul>
 <li>Melissa Mangos</li>
 <li>Jacqueline Craig</li>
 </ul>
 
-# Teammates
+<h3>Teammates</h3>
 <ul>
 <li>Scott Killeen</li>
 <li>Alex Adusei</li>
