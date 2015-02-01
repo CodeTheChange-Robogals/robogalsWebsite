@@ -1,7 +1,7 @@
 # Robogals Website
 Website made for the non-profit organization Robogals within 12 hours for a Queen's Code The Change code jam.
 
-<h3>Product Managers</h3>
+<h3>Project Managers</h3>
 <ul>
 <li>Melissa Mangos</li>
 <li>Jacqueline Craig</li>
