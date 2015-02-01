@@ -1,5 +1,5 @@
 # Robogals Website
-Website made for non-for-profit company Robogals within 12 hours for a Code The Change code jam.
+Website made for the non-profit organization Robogals within 12 hours for a Code The Change code jam.
 
 # Product Managers
 <ul>
