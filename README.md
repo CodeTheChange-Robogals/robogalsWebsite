@@ -10,4 +10,5 @@ Website made for non-for-profit company Robogals within 12 hours for a Code The 
 <li>Dominique Steneker</li>
 <li>Diana Dumitrascu</li>
 <li>Aniqah Mair</li>
+<li>Joseph Landy</li>
 </ul>
